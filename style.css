@@ -1,9 +1,41 @@
-body {background-color: rgb(34, 34, 136);}
+body {
+  background-color: rgb(229, 255, 112)
+}
+
 #titulo {
   font-size: 80px ; 
   text-align: center;
-  color: rgb(34, 34, 136);
+  color: rgb(56, 44, 44);
 
 }
+header {
+  padding: 20px;
+  background-color: black;
+  border-bottom: 5px solid;
+  font-size: 35px;
+  color: black;
+}
 
-.texto {}
+.texto {
+  font-size: 60px%;
+  text-align: justify;
+    color: black;
+    
+}
+.listas1 {
+  font-size: 30px;  
+  text-align: center;    
+list-style-position: inside ;
+}
+
+listas2
+
+
+
+
+
+
+
+
+}
+listas2
